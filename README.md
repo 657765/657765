@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @657765
 - 👀 I’m interested in microcontroller programming
-- 🌱 I’m currently learning MicroPython
+- 🌱 I’m currently learning Python and MicroPython
 - 💞️ I’m looking to collaborate on MicroPython projects
 - 📫 How to reach me ...
 
